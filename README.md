@@ -1,6 +1,6 @@
 ### 👋 Hi there, My name is Nojdar.
 
-I am a front-end web developer and passionate about creating engaging and user-friendly experiences on the web. Currently, I am studying at HackYourFuture, where I have been improving my skills and expanding my knowledge in various web technologies.
+I am a web developer and passionate about creating engaging and user-friendly experiences on the web. Currently, I am studying at HackYourFuture, where I have been improving my skills and expanding my knowledge in various web technologies.
 
 Here's a glimpse of what I've learned during my HackYourFuture journey so far:
 - 💻 JavaScript: I have a good understanding of JavaScript and its core concepts. I can confidently build interactive and dynamic web applications using this programming language.
